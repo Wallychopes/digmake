@@ -1,4 +1,4 @@
-# import the pygame libary
+# import the pygame library
 import pygame
 
 # set up a pygame window
